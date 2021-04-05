@@ -1,3 +1,7 @@
 # Gorokke
 
-hi ,, and bye !
+hi ,, and bye
+
+new one
+
+new two
