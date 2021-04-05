@@ -1,5 +1,7 @@
 # Gorokke
 
-hi ,, and ....?
+hi ,, and bye
 
 new one
+
+new two
