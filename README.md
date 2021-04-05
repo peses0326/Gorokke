@@ -1,2 +1,3 @@
 # Gorokke
-new
+
+hi ,, and bye !
